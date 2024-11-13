@@ -2,6 +2,9 @@
 
 ## Folders
 
+source data:
+https://www.kaggle.com/datasets/jakewright/9000-tickers-of-stock-market-data-full-history
+
 ### raw
 
 Original, unmodified data after downloading, scraping, etc.
