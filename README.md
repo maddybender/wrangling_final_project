@@ -1,17 +1,9 @@
 ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### To do list
+### Title
 
----
+BAIS 3250: Data Wrangling Final Project Music
 
-[ ] task 1  
-[x] task 2  
-[ ] task 3  
-~[x] task 4~
+##### Description
 
-### Change log
-
----
-
-- 2024-11-13 mwc added new items
-- 2024-11-10 mwc deleted old items
+This project analyzes Spotify songs (2010-2019) to identify correlations between audio features (e.g., danceability, energy, BPM) and songs that made it to the Billboard Hot 100 list of the decade.
