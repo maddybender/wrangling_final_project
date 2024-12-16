@@ -3,7 +3,11 @@
 ## Folders
 
 source data:
-https://www.kaggle.com/datasets/jakewright/9000-tickers-of-stock-market-data-full-history
+billboard:
+https://www.billboard.com/charts/decade-end/hot-100/
+
+kaggle:
+https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year?resource=download
 
 ### raw
 
@@ -12,14 +16,3 @@ Original, unmodified data after downloading, scraping, etc.
 ### final
 
 Data after all cleaning, processing, and analyzing.
-
----
-
-## Data dictionary
-
-| Field        | Description                         | Sample Data         |
-| ------------ | ----------------------------------- | ------------------- |
-| CustomerID   | Unique identifier for each customer | C12345              |
-| Name         | Full name of the customer           | John Doe            |
-| Email        | Customer's email address            | johndoe@example.com |
-| PurchaseDate | Date of customer's last purchase    | 2023-10-15          |
