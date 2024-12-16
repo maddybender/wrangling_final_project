@@ -1,47 +1,47 @@
-,song_name,top_genre,year,bpm,energy,dance,dB,live,val,duration,acoustic,speech,pop,artist,rank,multiple_artists,energy_bin
-0,"Hey, Soul Sister",neo mellow,2010,97,89,67,-4,8,80,217,19,4,83,Train,55,0,High
-1,Love The Way You Lie,detroit hip hop,2010,87,93,75,-5,52,64,263,24,23,82,Eminem Featuring Rihanna,46,1,High
-2,TiK ToK,dance pop,2010,120,84,76,-3,29,71,200,10,14,80,Ke$ha,24,0,High
-3,Bad Romance,dance pop,2010,119,92,70,-4,8,71,295,0,4,79,Lady Gaga,84,0,High
-4,Dynamite,dance pop,2010,120,78,75,-4,4,82,203,0,9,77,Taio Cruz,50,0,High
-5,I Like It,dance pop,2010,129,94,65,-3,6,73,231,2,9,63,"Cardi B, Bad Bunny & J Balvin",56,1,High
-6,California Gurls,dance pop,2010,125,75,79,-4,18,40,235,0,5,62,Katy Perry Featuring Snoop Dogg,49,1,Medium
-7,Break Your Heart,dance pop,2010,122,90,67,-5,8,63,186,0,3,33,Taio Cruz Featuring Ludacris,97,1,High
-8,Hello,big room,2010,128,98,67,-3,10,45,191,1,3,0,Adele,52,0,High
-9,Someone Like You,british soul,2011,135,33,56,-8,10,28,285,89,3,80,Adele,38,0,Low
-10,Give Me Everything,dance pop,2011,129,94,67,-3,30,53,252,19,16,79,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",44,1,High
-11,Grenade,pop,2011,110,56,71,-7,12,23,223,15,6,75,Bruno Mars,54,0,Medium
-12,Party Rock Anthem,dance pop,2011,130,74,75,-4,27,35,262,2,16,72,LMFAO Featuring Lauren Bennett & GoonRock,2,1,Medium
-13,Sexy And I Know It,dance pop,2011,130,86,71,-4,19,80,199,10,32,67,LMFAO,37,0,High
-14,E.T.,dance pop,2011,152,87,62,-5,37,76,230,2,18,66,Katy Perry Featuring Kanye West,40,1,High
-15,We Found Love,barbadian pop,2011,128,77,73,-4,11,60,215,3,4,61,Rihanna Featuring Calvin Harris,6,1,High
-16,Super Bass,dance pop,2011,127,74,77,-7,40,59,201,6,23,38,Nicki Minaj,94,0,Medium
-17,Firework,dance pop,2011,124,83,64,-5,11,65,228,14,5,25,Katy Perry,43,0,High
-18,Payphone,pop,2012,110,75,74,-5,29,55,231,2,4,79,Maroon 5 Featuring Wiz Khalifa,77,1,Medium
-19,Call Me Maybe,canadian pop,2012,120,58,78,-7,11,66,193,1,4,76,Carly Rae Jepsen,13,0,Medium
-20,Stronger (What Doesn't Kill You),dance pop,2012,116,94,56,-4,11,68,222,5,5,74,Kelly Clarkson,85,0,High
-21,One More Night,pop,2012,93,82,72,-3,8,62,220,6,3,73,Maroon 5,28,0,High
-22,Some Nights,baroque pop,2012,108,74,67,-7,9,39,277,2,5,72,fun.,67,0,Medium
-23,Roar,dance pop,2013,180,77,55,-5,35,46,224,0,4,78,Katy Perry,73,0,High
-24,Wrecking Ball,dance pop,2013,120,42,53,-6,11,35,221,41,3,77,Miley Cyrus,99,0,Low
-25,Blurred Lines,dance pop,2013,120,60,85,-5,8,84,264,0,4,76,Robin Thicke Featuring T.I. + Pharrell,14,1,Medium
-26,Stay With Me,pop,2014,84,42,42,-6,11,18,173,59,4,85,Sam Smith,70,0,Low
-27,Rude,pop,2014,144,76,77,-5,31,93,225,4,4,79,MAGIC!,74,0,High
-28,Shake It Off,pop,2014,160,80,65,-5,33,94,219,6,17,78,Taylor Swift,34,0,High
-29,Dark Horse,dance pop,2014,132,59,65,-6,17,35,216,0,5,78,Katy Perry Featuring Juicy J,26,1,Medium
-30,Fancy,australian hip hop,2014,95,72,91,-4,5,38,200,9,7,70,Iggy Azalea Featuring Charli XCX,62,1,Medium
-31,The Hills,canadian contemporary r&b,2015,113,56,58,-7,14,14,242,7,5,84,The Weeknd,31,0,Medium
-32,Love Yourself,canadian pop,2015,100,38,61,-10,28,52,234,84,44,83,Justin Bieber,42,0,Low
-33,Take Me To Church,irish singer-songwriter,2015,129,66,57,-5,12,44,242,63,5,81,Hozier,91,0,Medium
-34,Sugar,pop,2015,120,79,75,-7,9,88,235,6,3,81,Maroon 5,76,0,High
-35,Sorry,canadian pop,2015,100,76,65,-4,30,41,201,8,5,81,Justin Bieber,48,0,High
-36,What Do You Mean?,canadian pop,2015,125,57,85,-8,8,79,206,59,10,79,Justin Bieber,86,0,Medium
-37,All About That Bass,dance pop,2015,134,88,81,-4,11,96,189,5,5,65,Meghan Trainor,17,0,High
-38,Perfect,boy band,2015,100,82,65,-5,12,40,230,6,8,55,Ed Sheeran,15,0,High
-39,Don't Let Me Down,electropop,2016,160,87,53,-5,14,42,208,16,17,81,The Chainsmokers Featuring Daya,58,1,High
-40,Work,barbadian pop,2016,92,53,73,-6,9,56,219,8,9,78,Rihanna Featuring Drake,53,1,Medium
-41,Cheap Thrills,australian dance,2016,90,80,59,-5,8,73,225,6,22,64,Sia Featuring Sean Paul,66,1,High
-42,Closer,electropop,2017,95,52,75,-6,11,66,245,41,3,86,The Chainsmokers Featuring Halsey,4,1,Medium
-43,That's What I Like,pop,2017,134,56,85,-5,9,86,207,1,4,83,Bruno Mars,30,0,Medium
-44,Happier,brostep,2019,100,79,69,-3,17,67,214,19,5,90,Mashmello & Bastille,33,1,High
-45,Sucker,boy band,2019,138,73,84,-5,11,95,181,4,6,86,Jonas Brothers,88,0,Medium
+song_name,top_genre,year,bpm,energy,dance,dB,live,val,duration,acoustic,speech,pop,artist,rank,multiple_artists,energy_bin
+"Hey, Soul Sister",neo mellow,2010,97,89,67,-4,8,80,217,19,4,83,Train,55,0,High
+Love The Way You Lie,detroit hip hop,2010,87,93,75,-5,52,64,263,24,23,82,Eminem Featuring Rihanna,46,1,High
+TiK ToK,dance pop,2010,120,84,76,-3,29,71,200,10,14,80,Ke$ha,24,0,High
+Bad Romance,dance pop,2010,119,92,70,-4,8,71,295,0,4,79,Lady Gaga,84,0,High
+Dynamite,dance pop,2010,120,78,75,-4,4,82,203,0,9,77,Taio Cruz,50,0,High
+I Like It,dance pop,2010,129,94,65,-3,6,73,231,2,9,63,"Cardi B, Bad Bunny & J Balvin",56,1,High
+California Gurls,dance pop,2010,125,75,79,-4,18,40,235,0,5,62,Katy Perry Featuring Snoop Dogg,49,1,Medium
+Break Your Heart,dance pop,2010,122,90,67,-5,8,63,186,0,3,33,Taio Cruz Featuring Ludacris,97,1,High
+Hello,big room,2010,128,98,67,-3,10,45,191,1,3,0,Adele,52,0,High
+Someone Like You,british soul,2011,135,33,56,-8,10,28,285,89,3,80,Adele,38,0,Low
+Give Me Everything,dance pop,2011,129,94,67,-3,30,53,252,19,16,79,"Pitbull Featuring Ne-Yo, Afrojack & Nayer",44,1,High
+Grenade,pop,2011,110,56,71,-7,12,23,223,15,6,75,Bruno Mars,54,0,Medium
+Party Rock Anthem,dance pop,2011,130,74,75,-4,27,35,262,2,16,72,LMFAO Featuring Lauren Bennett & GoonRock,2,1,Medium
+Sexy And I Know It,dance pop,2011,130,86,71,-4,19,80,199,10,32,67,LMFAO,37,0,High
+E.T.,dance pop,2011,152,87,62,-5,37,76,230,2,18,66,Katy Perry Featuring Kanye West,40,1,High
+We Found Love,barbadian pop,2011,128,77,73,-4,11,60,215,3,4,61,Rihanna Featuring Calvin Harris,6,1,High
+Super Bass,dance pop,2011,127,74,77,-7,40,59,201,6,23,38,Nicki Minaj,94,0,Medium
+Firework,dance pop,2011,124,83,64,-5,11,65,228,14,5,25,Katy Perry,43,0,High
+Payphone,pop,2012,110,75,74,-5,29,55,231,2,4,79,Maroon 5 Featuring Wiz Khalifa,77,1,Medium
+Call Me Maybe,canadian pop,2012,120,58,78,-7,11,66,193,1,4,76,Carly Rae Jepsen,13,0,Medium
+Stronger (What Doesn't Kill You),dance pop,2012,116,94,56,-4,11,68,222,5,5,74,Kelly Clarkson,85,0,High
+One More Night,pop,2012,93,82,72,-3,8,62,220,6,3,73,Maroon 5,28,0,High
+Some Nights,baroque pop,2012,108,74,67,-7,9,39,277,2,5,72,fun.,67,0,Medium
+Roar,dance pop,2013,180,77,55,-5,35,46,224,0,4,78,Katy Perry,73,0,High
+Wrecking Ball,dance pop,2013,120,42,53,-6,11,35,221,41,3,77,Miley Cyrus,99,0,Low
+Blurred Lines,dance pop,2013,120,60,85,-5,8,84,264,0,4,76,Robin Thicke Featuring T.I. + Pharrell,14,1,Medium
+Stay With Me,pop,2014,84,42,42,-6,11,18,173,59,4,85,Sam Smith,70,0,Low
+Rude,pop,2014,144,76,77,-5,31,93,225,4,4,79,MAGIC!,74,0,High
+Shake It Off,pop,2014,160,80,65,-5,33,94,219,6,17,78,Taylor Swift,34,0,High
+Dark Horse,dance pop,2014,132,59,65,-6,17,35,216,0,5,78,Katy Perry Featuring Juicy J,26,1,Medium
+Fancy,australian hip hop,2014,95,72,91,-4,5,38,200,9,7,70,Iggy Azalea Featuring Charli XCX,62,1,Medium
+The Hills,canadian contemporary r&b,2015,113,56,58,-7,14,14,242,7,5,84,The Weeknd,31,0,Medium
+Love Yourself,canadian pop,2015,100,38,61,-10,28,52,234,84,44,83,Justin Bieber,42,0,Low
+Take Me To Church,irish singer-songwriter,2015,129,66,57,-5,12,44,242,63,5,81,Hozier,91,0,Medium
+Sugar,pop,2015,120,79,75,-7,9,88,235,6,3,81,Maroon 5,76,0,High
+Sorry,canadian pop,2015,100,76,65,-4,30,41,201,8,5,81,Justin Bieber,48,0,High
+What Do You Mean?,canadian pop,2015,125,57,85,-8,8,79,206,59,10,79,Justin Bieber,86,0,Medium
+All About That Bass,dance pop,2015,134,88,81,-4,11,96,189,5,5,65,Meghan Trainor,17,0,High
+Perfect,boy band,2015,100,82,65,-5,12,40,230,6,8,55,Ed Sheeran,15,0,High
+Don't Let Me Down,electropop,2016,160,87,53,-5,14,42,208,16,17,81,The Chainsmokers Featuring Daya,58,1,High
+Work,barbadian pop,2016,92,53,73,-6,9,56,219,8,9,78,Rihanna Featuring Drake,53,1,Medium
+Cheap Thrills,australian dance,2016,90,80,59,-5,8,73,225,6,22,64,Sia Featuring Sean Paul,66,1,High
+Closer,electropop,2017,95,52,75,-6,11,66,245,41,3,86,The Chainsmokers Featuring Halsey,4,1,Medium
+That's What I Like,pop,2017,134,56,85,-5,9,86,207,1,4,83,Bruno Mars,30,0,Medium
+Happier,brostep,2019,100,79,69,-3,17,67,214,19,5,90,Mashmello & Bastille,33,1,High
+Sucker,boy band,2019,138,73,84,-5,11,95,181,4,6,86,Jonas Brothers,88,0,Medium
